@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 Developer Skill Radar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevRickLoll/DevRickLoll/main/devrick_skill_graph.png" width="400" />
-</p>
-
----
-
 ## 🚀 Projects Showcase
 
 ### 📌 CF Live Facebook
